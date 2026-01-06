@@ -1,0 +1,21 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<plugins>
+    <pyqgis_plugin name="GeoMiningOpt" version="2.0.9">
+        <description>Mineral exploration using Google Earth Engine with multi-sensor support (Sentinel-2, Sentinel-1, Landsat 8/9)</description>
+        <about>GeoMiningOpt is a professional QGIS plugin for mineral exploration that leverages Google Earth Engine for server-side processing. It supports multiple satellite sensors (Sentinel-2, Sentinel-1, Landsat 8/9) with standard spectral processing, unsupervised clustering for mineral zone detection, and generates professional cartographic outputs. Optimized for low-memory systems.</about>
+        <version>2.0.9</version>
+        <qgis_minimum_version>3.34</qgis_minimum_version>
+        <homepage>https://github.com/eddycc66/GeoMiningOpt</homepage>
+        <file_name>GeoMiningOpt_v2.0.9_FINAL.zip</file_name>
+        <author_name>Edwin Condori</author_name>
+        <download_url>https://eddycc66.github.io/GeoMiningOpt/GeoMiningOpt_v2.0.9_FINAL.zip</download_url>
+        <uploaded_by>Edwin Condori</uploaded_by>
+        <create_date>2026-01-06</create_date>
+        <update_date>2026-01-06</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker>https://github.com/eddycc66/GeoMiningOpt/issues</tracker>
+        <repository>https://github.com/eddycc66/GeoMiningOpt</repository>
+        <tags>mining,mineral exploration,earth engine,sentinel,landsat,remote sensing,clustering,geology</tags>
+    </pyqgis_plugin>
+</plugins>
