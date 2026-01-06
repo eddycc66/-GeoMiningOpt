@@ -7,9 +7,9 @@
         <qgis_minimum_version>3.34</qgis_minimum_version>
         <homepage>https://github.com/eddycc66/-GeoMiningOpt</homepage>
         <file_name>GeoMiningOpt_v2.0.9_FINAL.zip</file_name>
-        <author_name>Edwin Condori</author_name>
+        <author_name>M.Sc. Edwin Calle Condori Founder & CEO – Geonorthi</author_name>
         <download_url>https://eddycc66.github.io/-GeoMiningOpt/GeoMiningOpt_v2.0.9_FINAL.zip</download_url>
-        <uploaded_by>Edwin Condori</uploaded_by>
+        <uploaded_by>M.Sc. Edwin Calle Condori Founder & CEO – Geonorth</uploaded_by>
         <create_date>2026-01-06</create_date>
         <update_date>2026-01-06</update_date>
         <experimental>False</experimental>
@@ -19,3 +19,4 @@
         <tags>mining,mineral exploration,earth engine,sentinel,landsat,remote sensing,clustering,geology</tags>
     </pyqgis_plugin>
 </plugins>
+
